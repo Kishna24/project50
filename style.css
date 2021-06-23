@@ -1,0 +1,18 @@
+.menu{
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    border: solid;
+}
+
+body{
+    background-color: beige;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    font-family: "Sofia", sans-serif;
+    justify-content: space-between;
+}
