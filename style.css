@@ -1,18 +1,7 @@
-.menu{
-    background-color: aqua;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    border: solid;
+html, body {
+  margin: 0;
+  padding: 0;
 }
-
-body{
-    background-color: beige;
-}
-
-.header{
-    background-color: black;
-    color: white;
-    font-family: "Sofia", sans-serif;
-    justify-content: space-between;
+canvas {
+  display: block;
 }
